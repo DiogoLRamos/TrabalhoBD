@@ -71,6 +71,3 @@ primary key (idmeta),
 FOREIGN key (idequipe)
 references equipe (idequipe)
 );
-
-
-
